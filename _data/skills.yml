@@ -1,19 +1,18 @@
-- name: Software Engineer Keywords
+- name: 软件工程
   keywords:
-      - Java
-      - C++
-      - Python
-      - Design Patterns
+      - Java开发
+      - 软件架构师
 
-- name: Mobile Developer Keywords
+- name: 信息安全
   keywords:
-      - Android
-      - Reverse Engineering
+      - 企业安全建设
+      - 安全架构设计
+      - 安全技术方案
+      - 应用安全、SDL、DevSecOps
 
-- name: Windows Developer Keywords
+- name: 自述
   keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - 勾陈安全实验室同仁
+      - 《Burp Suite实战指南》编写者
+      - 读书，写诗，假装自己是黑客
+
