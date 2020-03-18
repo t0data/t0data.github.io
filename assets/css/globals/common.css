@@ -54,7 +54,7 @@
 }
 
 .site-header h1 a {
-    color: #000
+    color: #FFF
 }
 
 .site-header .site-header-nav-item {
@@ -72,7 +72,7 @@
 
 .site-header h1 a {
     white-space: nowrap;
-    color: #333
+    color: #FFF
 }
 
 .site-header h1 a:hover {
