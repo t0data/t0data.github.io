@@ -1,28 +1,28 @@
 - name: FreeBuf
   url: http://www.freebuf.com/
-  src: site
+  src: life
 
 - name: 安全脉搏
   url: http://www.secpulse.com/
-  src: site
+  src: life
 
 - name: 安全焦点
   url: http://www.securityfocus.com/
-  src: site
+  src: life
 
 - name: 安全攻防指南
   url: http://www.91ri.org/
-  src: site
+  src: life
 
 - name: secwiki
   url: http://www.secwiki.com/
-  src: site
+  src: life
 
 - name: 逆向未来
   url: http://www.pd521.com/
-  src: site
+  src: life
 
 - name: 看雪
   url: https://bbs.pediy.com/
-  src: site
+  src: life
 
