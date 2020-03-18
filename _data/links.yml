@@ -26,3 +26,27 @@
   url: https://bbs.pediy.com/
   src: life
 
+- name: 小书屋
+  url: http://www.xiaoshuwu.net/
+  src: www
+  
+- name: IT BOOK
+  url: http://www.allitebooks.com/
+  src: www
+
+- name: 安全文档
+  url: http://vipread.com/
+  src: www
+
+- name: 碳基体
+  url: https://github.com/tanjiti/
+  src: www
+
+- name: 皮老师
+  url: http://paper.kakapo.ml/
+  src: www
+
+- name: 巴西小伙
+  url: http://brutelogic.com.br/blog/
+  src: www
+
