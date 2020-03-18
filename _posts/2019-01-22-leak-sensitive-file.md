@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 由一则敏感文档泄露事件溯源说起
-categories: Markdown
+categories: 企业安全建设
 description: 由一则敏感文档泄露事件溯源说起
 keywords: 敏感文档, 泄露
 ---
