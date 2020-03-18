@@ -54,7 +54,7 @@
 }
 
 .site-header h1 a {
-    color: #fff
+    color: #000
 }
 
 .site-header .site-header-nav-item {
@@ -156,7 +156,7 @@
 }
 
 .site-header-nav-item.selected {
-    color: #333;
+   
     padding: 6px 10px 13px;
     border-bottom: 2px solid #d26911
 }
