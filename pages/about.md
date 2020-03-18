@@ -10,13 +10,14 @@ permalink: /about/
 
 
 
-## 联系
+## 与我相关
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
-## Skill Keywords
+
+## Skills
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
