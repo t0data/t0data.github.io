@@ -17,7 +17,7 @@ permalink: /about/
 {% endfor %}
 
 
-## Skills
+## 关注领域
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
