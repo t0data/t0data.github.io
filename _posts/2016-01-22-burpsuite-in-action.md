@@ -6,9 +6,6 @@ description: BurpSuite实战
 keywords: BurpSuite、web渗透、安全工具
 ---
 
-## BurpSuite实战
-
-
 <h2><a>引子</a></h2>
 <p>刚接触web安全的时候，非常想找到一款集成型的<a href="http://www.secpulse.com/archives/category/tools" target="_blank">渗透测试工具</a>，找来找去，最终选择了<a href="http://www.secpulse.com/archives/44268.html" target="_blank">Burp Suite</a>，除了它功能强大之外，还有就是好用，易于上手。于是就从网上下载了一个破解版的来用，记得那时候好像是1.2版本，功能也没有现在这么强大。在使用的过程中，慢慢发现，网上系统全量的介绍<a href="http://www.secpulse.com/archives/44268.html" target="_blank">BurpSuite</a>的书籍太少了，大多是零星、片段的讲解，不成体系。后来慢慢地出现了不少介绍BurpSuite的视频，现状也变得越来越好。但每每遇到不知道的问题时，还是不得不搜寻BurpSuite的官方文档和英文网页来解决问题，也正是这些问题，慢慢让我觉得有必要整理一套全面的BurpSuite中文教程，算是为web安全界做尽自己的一份微薄之力，也才有了你们现在看到的这一系列文章。</p>
 <p>我给这些文章取了IT行业图书比较通用的名称: 《BurpSuite实战指南》，您可以称我为中文编写者，文章中的内容主要源于BurpSuite官方文档和多位国外安全大牛的经验总结，我只是在他们的基础上，结合我的经验、理解和实践，编写成现在的中文教程。本书我也没有出版成纸质图书的计划，本着IT人互联分享的精神，放在github，做免费的电子书。于业界，算一份小小的贡献；于自己，算一次总结和锻炼。</p>
@@ -45,3 +42,8 @@ keywords: BurpSuite、web渗透、安全工具
 <li>使用Burp 、Radamsa进行浏览器fuzzing</li>
 <li>使用Burp 、Android Killer进行安卓app渗透测试</li>
 </ol>
+
+
+### gitbook在线版阅读地址：
+
+https://t0data.gitbooks.io/burpsuite/content/
