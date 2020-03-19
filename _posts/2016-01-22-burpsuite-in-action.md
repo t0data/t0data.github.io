@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Burp Suite 实战指南
-categories: 安全图书
+categories: 我的安全书籍
 description: BurpSuite实战
 keywords: BurpSuite、web渗透、安全工具
 ---
