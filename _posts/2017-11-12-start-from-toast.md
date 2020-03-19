@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android 源码分析 —— 从 Toast 出发
-categories: Android
+categories: 移动安全
 description: Android 源码分析，深入解析 Toast。
 keywords: RTFSC, Android, Toast
 ---
