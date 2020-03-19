@@ -71,4 +71,14 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 ## 致谢
 
 本博客外观基于 [码志](https://mazhuang.org) 修改，感谢！
+
 博客里的文章，2019年之前的均为原博主所创。
+
+新博文头部需按如下格式：
+---
+layout: post
+title: template page
+categories: [cate1, cate2]
+description: some word here
+keywords: keyword1, keyword2
+---
