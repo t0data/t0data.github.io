@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 一份简明的 Markdown 笔记与教程
-categories: Markdown
+categories: IT杂项
 description: 一份简明的 Markdown 笔记与教程
 keywords: Markdown, VSCode
 ---
