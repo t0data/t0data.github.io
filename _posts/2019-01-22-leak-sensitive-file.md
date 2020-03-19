@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 由一则敏感文档泄露事件溯源说起
-categories: 企业安全建设
+categories: 应急响应溯源
 description: 由一则敏感文档泄露事件溯源说起
 keywords: 敏感文档, 泄露
 ---
