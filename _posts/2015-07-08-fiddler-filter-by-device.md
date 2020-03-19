@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 定制 Fiddler 之按设备过滤请求
-categories: Fiddler
+categories: 安全工具
 description: 当有多台设备时如何方便地从满屏纷飞的 Session 中筛选出你关心的内容？
 keywords: Fiddler, Filter, Device
 ---
